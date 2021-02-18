@@ -20,6 +20,7 @@
     <title>สมัครสมาชิก</title>
 </head>
 <body>
+    <!-- test -->
 <form action="register.php" method="post">
     <h2>สมัครสมาชิก</h2>
           <p>
